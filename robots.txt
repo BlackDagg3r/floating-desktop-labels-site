@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://blackdagg3r.github.io/floating-desktop-labels-site/sitemap.xml
